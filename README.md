@@ -12,7 +12,7 @@ Traffic Accidents in the US.pdf is a <b> Paper </b> with details on this papaer.
 
 The csv data files were too large to add here. The source of the data is available [here.](https://smoosavi.org/datasets/us_accidents)
 
-All of the python files and csv files can also be found on my google drive folder for google collab 
+For python files, Data Prep has the preprocessing to create a smaller file. It used US_Accidents_Data.csv to output Final_Data.csv. This file is then used foe EDA, Hypothesis Testing and finally, Machine Learning. All of the python files and csv files can also be found on my google drive folder for google collab 
 [here.](https://drive.google.com/drive/folders/19PV2nG8QXtFaqtHg6UzpoZD2wzO4Fnag?usp=sharing)
 
 
