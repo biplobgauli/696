@@ -17,4 +17,5 @@ All of the python files and csv files can also be found on my google drive folde
 
 
 <b> Video </b> for this project is available [here.](https://www.youtube.com/)
+Video will be available by 11:59 pm 5/1.
 
