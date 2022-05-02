@@ -16,5 +16,5 @@ All of the python files and csv files can also be found on my google drive folde
 [here.](https://drive.google.com/drive/folders/19PV2nG8QXtFaqtHg6UzpoZD2wzO4Fnag?usp=sharing)
 
 
-Video for this project is available [here.](https://www.youtube.com/)
+<b> Video </b> for this project is available [here.](https://www.youtube.com/)
 
