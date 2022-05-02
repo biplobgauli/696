@@ -7,3 +7,9 @@ Since Covid-19, people have started working remotely across several industries a
 
 This paper delves into questions pertaining to traffic accidents, like what times and days of the week are worse than others, is there any weather or feature that can predict the severity of accidents, and what traffic measures are associated with less severe accidents. 
 
+
+### Files Available
+
+Traffic Accidents in the US.pdf is a paper with details on this papaer. Traffic Accidents in the US.pptx is the powerpoint document.
+
+The data csv data files were too large to add here. The source of the data is available [here](https://smoosavi.org/datasets/us_accidents)
