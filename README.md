@@ -8,7 +8,7 @@ This paper delves into questions pertaining to traffic accidents, like what time
 
 ### Files Available
 
-Traffic Accidents in the US.pdf is a paper with details on this papaer. Traffic Accidents in the US.pptx is the powerpoint document.
+Traffic Accidents in the US.pdf is a <b> Paper </b> with details on this papaer. Traffic Accidents in the US.pptx is the <b> PowerPoint</b> document.
 
 The csv data files were too large to add here. The source of the data is available [here.](https://smoosavi.org/datasets/us_accidents)
 
