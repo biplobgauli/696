@@ -17,6 +17,5 @@ For python files, Data Prep has the preprocessing to create a smaller file. It u
 
 **Note: When I uploaded the EDA file to GitHUb, I have been getting an error for the rendering taking too long to load. It opens in google collab or jupyter notebook. 
 
-<b> Video </b> for this project is available [here.](https://youtu.be/jAOUsNbvsjg)
-Video will be available by 11:59 pm 5/1.
+<b> Video </b> for this project is available [here.](https://youtu.be/6V-6iHlFImQ)
 
