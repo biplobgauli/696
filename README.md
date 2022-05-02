@@ -15,5 +15,5 @@ Traffic Accidents in the US.pdf is a paper with details on this papaer. Traffic 
 The data csv data files were too large to add here. The source of the data is available [here.](https://smoosavi.org/datasets/us_accidents)
 
 All of the python files and csv files can also be found on my google drive folder for google collab 
-[here.] (https://drive.google.com/drive/folders/19PV2nG8QXtFaqtHg6UzpoZD2wzO4Fnag?usp=sharing)
+[here.](https://drive.google.com/drive/folders/19PV2nG8QXtFaqtHg6UzpoZD2wzO4Fnag?usp=sharing)
 
