@@ -8,7 +8,7 @@ This paper delves into questions pertaining to traffic accidents, like what time
 
 ### Files Available
 
-Traffic Accidents in the US.pdf is a <b> Paper </b> with details on this papaer. Traffic Accidents in the US.pptx is the <b> PowerPoint</b> document.
+Traffic Accidents in the US.pdf is a <b> Paper </b> with details on this project. Traffic Accidents in the US.pptx is the <b> PowerPoint</b> document.
 
 The csv data files were too large to add here. The source of the data is available [here.](https://smoosavi.org/datasets/us_accidents)
 
@@ -17,6 +17,6 @@ For python files, Data Prep has the preprocessing to create a smaller file. It u
 
 **Note: When I uploaded the EDA file to GitHUb, I have been getting an error for the rendering taking too long to load. It opens in google collab or jupyter notebook. 
 
-<b> Video </b> for this project is available [here.](https://www.youtube.com/)
+<b> Video </b> for this project is available [here.](https://youtu.be/jAOUsNbvsjg)
 Video will be available by 11:59 pm 5/1.
 
