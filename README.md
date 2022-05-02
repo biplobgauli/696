@@ -15,6 +15,7 @@ The csv data files were too large to add here. The source of the data is availab
 For python files, Data Prep has the preprocessing to create a smaller file. It used US_Accidents_Data.csv to output Final_Data.csv. This file is then used foe EDA, Hypothesis Testing and finally, Machine Learning. All of the python files and csv files can also be found on my google drive folder for google collab 
 [here.](https://drive.google.com/drive/folders/19PV2nG8QXtFaqtHg6UzpoZD2wzO4Fnag?usp=sharing)
 
+**Note: When I uploaded the EDA file to GitHUb, I have been getting an error for the rendering taking too long to load. It opens in google collab or jupyter notebook. 
 
 <b> Video </b> for this project is available [here.](https://www.youtube.com/)
 Video will be available by 11:59 pm 5/1.
